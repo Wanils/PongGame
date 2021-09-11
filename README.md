@@ -6,4 +6,4 @@ Pong Game written in VHDL Vivado for Basys 3 board. The design was based on the 
 - post game screen showing which player have won
 - changed control of the paddles -> 2 most left switches are for the player 1. The leftmost switch allows you to select the direction (up, down), and the second button locks the current position of the pad if its high. 2 most right switches are for the player 2 and do the same thing. The rightmost is for the direction and the second one is for locking the paddle position.
 Design architecture:
-!(https://github.com/Wanils/PongGame/blob/main/Pong_Architecture.drawio.png?raw=true)
+![alt text](https://github.com/Wanils/PongGame/blob/main/Pong_Architecture.drawio.png?raw=true)
